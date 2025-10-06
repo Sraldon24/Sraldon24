@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir Ghadimi
 
-<!--
-**Sraldon24/Sraldon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student at Champlain College (2023-2026)**  
+💻 Passionate about backend development, Dockerized microservices, and cloud systems.  
+🌱 Currently learning **Spring Cloud Gateway** and **API testing**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[FlowerShopMS](https://github.com/Sraldon24/FlowerShopMS)** – Spring Boot microservices e-commerce app  
+- **[SmartBudgetTracker](https://github.com/Sraldon24/SmartBudgetTracker)** – Android Kotlin app for expense tracking  
+- **[Private Cloud Deployment](https://github.com/Sraldon24)** – Raspberry Pi 5 + Nextcloud + Docker + Caddy  
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Java · SQL · Kotlin · Python  
+**Frameworks:** Spring Boot · WebFlux · Docker · React  
+**Tools:** GitHub Actions · IntelliJ IDEA · Postman · Linux  
+
+---
+
+📫 Reach me at **[Sraldon24@gmail.com](mailto:Sraldon24@gmail.com)**  
+🌐 [LinkedIn](https://www.linkedin.com/in/amir-ghadimi04) · [GitHub](https://github.com/Sraldon24)
