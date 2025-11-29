@@ -6,13 +6,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- **[FlowerShopMS](https://github.com/Sraldon24/FlowerShopMS)** – Spring Boot microservices e-commerce app  
-- **[SmartBudgetTracker](https://github.com/Sraldon24/SmartBudgetTracker)** – Android Kotlin app for expense tracking  
-- **[Private Cloud Deployment](https://github.com/Sraldon24)** – Raspberry Pi 5 + Nextcloud + Docker + Caddy  
-
----
-
 ### 🧰 Tech Stack
 **Languages:** Java · SQL · Kotlin · Python  
 **Frameworks:** Spring Boot · WebFlux · Docker · React  
