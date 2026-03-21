@@ -10,15 +10,6 @@
 
 </div>
 
----
-
-## About Me
-
-- 🎓 Computer Science student at **Concordia University** (2023–2026)
-- 🔭 Currently working on **IoT home security systems** and **cloud deployments**
-- 💡 Passionate about **backend development**, **microservices**, and **automation**
-- 🌱 Learning **Spring Cloud Gateway**, **Kubernetes**, and **AI tooling**
-- ⚡ I automate everything I can — from workouts to deployments
 
 ---
 
