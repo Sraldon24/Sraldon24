@@ -12,15 +12,6 @@
 
 ---
 
-## About Me
-
-- 🎓 Computer Science student at **Concordia University** (2023–2026)
-- 🔭 Currently working on **IoT home security systems** and **cloud deployments**
-- 💡 Passionate about **backend development**, **microservices**, and **automation**
-- 🌱 Learning **Spring Cloud Gateway**, **Kubernetes**, and **AI tooling**
-- ⚡ I automate everything I can — from workouts to deployments
-
----
 
 ## Tech Stack
 
@@ -43,23 +34,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Iot2HomeS2](https://github.com/Sraldon24/Iot2HomeS2) | IoT home security system with sensors & alerts | Python, IoT |
-| [hevy-sheets-sync](https://github.com/Sraldon24/hevy-sheets-sync) | Syncs Hevy workout data to Google Sheets | Python, Automation |
-| [FlowerShopMS](https://github.com/Sraldon24/FlowerShopMS) | Microservices e-commerce app | Java, Spring Boot |
-| [SmartBudgetTracker](https://github.com/Sraldon24/SmartBudgetTracker) | Android personal finance tracker | Kotlin, Android |
-| [ClaudeCodeConfigs](https://github.com/Sraldon24/ClaudeCodeConfigs) | Personal Claude Code AI config & rules | Shell, AI |
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sraldon24&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sraldon24&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
