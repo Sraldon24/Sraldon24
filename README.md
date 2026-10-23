@@ -20,6 +20,6 @@ Interested in backend development, full-stack applications, and applied AI.
 
 ### Experience
 
-- **AI/ML Research Intern, Polytechnique Montréal (SWAT Lab)** — LLM/RAG workflows and ML verification.
+- **Previous AI/ML research experience, Polytechnique Montréal (SWAT Lab), Mar–May 2026** — Worked on LLM/RAG workflows and ML verification.
 - **Programming Peer Tutor, Champlain College** — Debugging and programming fundamentals.
 - **Hackathon winner** — Best Overall Project, Champlain Code Quest (TimmyTutorials).
